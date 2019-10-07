@@ -124,6 +124,8 @@ a {
 
 .physics {
 	background-image: url("physics.jpg");
+	height:250px;
+	width:250px;
 }
 
 .show-on-mobile--inline {
