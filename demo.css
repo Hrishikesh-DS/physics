@@ -161,12 +161,3 @@ a {
 		transform: translateY(-5px);
 	}
 }
-@media screen and (max-width: 480px) {
-	.hide-on-mobile {
-		display: none;
-	}
-
-	.show-on-mobile--inline {
-		display: inline;
-	}
-}
