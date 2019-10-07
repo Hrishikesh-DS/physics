@@ -123,7 +123,7 @@ a {
 }
 
 .physics {
-	background-image: url("physics.jpg");
+	background-image: url("./img/physics.jpg");
 	height:250px;
 	width:250px;
 }
